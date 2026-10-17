@@ -8,6 +8,17 @@ Create a Windows 10 or Windows 11 USB installer on your Mac. ForgeWin is a nativ
 
 [Download from Releases](https://github.com/macrobi/ForgeWin/releases) · [Magyar útmutató](README.hu.md)
 
+## Screenshots
+
+Click a screenshot to view it at full size.
+
+| | |
+| --- | --- |
+| **Download a Windows ISO**<br>[![Download a Windows ISO](assets/screenshots/ForgeWin01.png)](assets/screenshots/ForgeWin01.png) | **Select the USB drive**<br>[![Select the USB drive](assets/screenshots/ForgeWin02.png)](assets/screenshots/ForgeWin02.png) |
+| **Confirm drive erasure**<br>[![Confirm drive erasure](assets/screenshots/ForgeWin03.png)](assets/screenshots/ForgeWin03.png) | **Split a large Windows image**<br>[![Split a large Windows image](assets/screenshots/ForgeWin04.png)](assets/screenshots/ForgeWin04.png) |
+| **Copy the installer**<br>[![Copy the installer](assets/screenshots/ForgeWin05.png)](assets/screenshots/ForgeWin05.png) | **Verify the copied files**<br>[![Verify the copied files](assets/screenshots/ForgeWin06.png)](assets/screenshots/ForgeWin06.png) |
+| **View operation history**<br>[![View operation history](assets/screenshots/ForgeWin07.png)](assets/screenshots/ForgeWin07.png) |  |
+
 ## Requirements
 
 - macOS 14 or later. The app includes Apple Silicon and Intel binaries.

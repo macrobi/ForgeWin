@@ -8,6 +8,17 @@ Windows 10 és Windows 11 telepítőpendrive készítése Macen, natív magyar �
 
 [Letöltés a Releases oldalról](https://github.com/macrobi/ForgeWin/releases) · [English](README.md)
 
+## Képernyőképek
+
+A képekre kattintva teljes méretben nézheted meg őket.
+
+| | |
+| --- | --- |
+| **Windows ISO letöltése**<br>[![Windows ISO letöltése](assets/screenshots/ForgeWin01.png)](assets/screenshots/ForgeWin01.png) | **USB-meghajtó kiválasztása**<br>[![USB-meghajtó kiválasztása](assets/screenshots/ForgeWin02.png)](assets/screenshots/ForgeWin02.png) |
+| **A meghajtó törlésének megerősítése**<br>[![A meghajtó törlésének megerősítése](assets/screenshots/ForgeWin03.png)](assets/screenshots/ForgeWin03.png) | **Nagy Windows-kép darabolása**<br>[![Nagy Windows-kép darabolása](assets/screenshots/ForgeWin04.png)](assets/screenshots/ForgeWin04.png) |
+| **A telepítő másolása**<br>[![A telepítő másolása](assets/screenshots/ForgeWin05.png)](assets/screenshots/ForgeWin05.png) | **A másolt fájlok ellenőrzése**<br>[![A másolt fájlok ellenőrzése](assets/screenshots/ForgeWin06.png)](assets/screenshots/ForgeWin06.png) |
+| **Műveleti előzmények**<br>[![Műveleti előzmények](assets/screenshots/ForgeWin07.png)](assets/screenshots/ForgeWin07.png) |  |
+
 ## Követelmények
 
 - macOS 14 vagy újabb. Az alkalmazás Apple Silicon és Intel változatot is tartalmaz.
