@@ -1,0 +1,20 @@
+ForgeWin for Mac
+Copyright Veress Róbert 2026
+
+MAGYAR
+
+A ForgeWin szerzője és tulajdonosa Veress Róbert. Ez a 0.3 beta, build 6 csomag tesztelésre készült.
+
+A Windows és a Microsoft megjelölések a Microsoft vállalatcsoport védjegyei. A ForgeWin nem Microsoft-termék. Ez a csomag nem tartalmaz Windows ISO-t vagy Windows-licencet.
+
+Külső komponens: wimlib 1.14.5
+A wimlib-imagex parancssori eszköz licence GPL-3.0-or-later. Az eredeti szerzői megjelölések, licencek, teljes eredeti forrásarchívum és újraépítési script az alkalmazáscsomag Contents/Resources/Tools mappájában találhatók. Finderben: jobb kattintás a ForgeWin appon → Csomag tartalmának megjelenítése.
+
+ENGLISH
+
+ForgeWin is authored and owned by Veress Róbert. This package is version 0.3 beta, build 6, intended for testing.
+
+Windows and Microsoft are trademarks of the Microsoft group of companies. ForgeWin is not a Microsoft product. No Windows ISO or Windows license is included.
+
+Third-party component: wimlib 1.14.5
+The wimlib-imagex command-line tool is licensed under GPL-3.0-or-later. Original copyright notices, license texts, the complete original source archive, and the rebuild script are included in Contents/Resources/Tools inside the application bundle. In Finder, right-click ForgeWin and choose Show Package Contents.

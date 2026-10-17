@@ -1,0 +1,17 @@
+# Only the public distribution documentation belongs in this repository.
+/*
+!/.gitignore
+!/README.md
+!/README.hu.md
+!/COPYRIGHT.txt
+!/THIRD_PARTY_NOTICES.md
+!/docs/
+!/assets/
+!/.github/
+
+# Private audit/build material and release binaries stay local.
+.local/
+.DS_Store
+*.dmg
+*.app/
+*.log
